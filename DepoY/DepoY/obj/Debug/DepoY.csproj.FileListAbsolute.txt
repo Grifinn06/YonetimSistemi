@@ -1,0 +1,15 @@
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.csproj.AssemblyReference.cache
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.Properties.Resources.resources
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.csproj.GenerateResource.cache
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.csproj.CoreCompileInputs.cache
+C:\Users\Selim\source\repos\DepoY\DepoY\bin\Debug\DepoY.exe.config
+C:\Users\Selim\source\repos\DepoY\DepoY\bin\Debug\DepoY.exe
+C:\Users\Selim\source\repos\DepoY\DepoY\bin\Debug\DepoY.pdb
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.exe
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.pdb
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.bidon.resources
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.Kurumk.resources
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.Kayit.resources
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.arayuz.resources
+C:\Users\Selim\source\repos\DepoY\DepoY\obj\Debug\DepoY.log.resources
